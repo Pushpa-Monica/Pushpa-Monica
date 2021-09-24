@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pushpa-Monica
-- 👀 I’m interested in coding
+- 👀 I’m interested in python coding
 - 🌱 I’m currently learning about Data science
 - 💞️ I’m looking to collaborate on team challenges on problem solving
 - 📫 How to reach me monica.nemani1@gmail.com
